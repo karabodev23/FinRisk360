@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FinRisk360.Api/FinRisk360.Api.csproj" />
+  <Project Path="FinRisk360.Application/FinRisk360.Application.csproj" />
+  <Project Path="FinRisk360.Domain/FinRisk360.Domain.csproj" />
+  <Project Path="FinRisk360.Infrastructure/FinRisk360.Infrastructure.csproj" />
+</Solution>
